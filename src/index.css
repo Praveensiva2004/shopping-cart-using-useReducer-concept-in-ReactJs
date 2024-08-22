@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: aqua;
+}
+.fruits{
+  display: flex;
+  justify-content: space-between;
+}
+img{
+  height: 300px;
+  width:300px;
+  border: 2px solid black;
+}
+.apple{
+  padding:30px;
+  border: 2px solid black;
+  margin:30px;
+  background-color:yellow;
+}
+.Orange{
+  padding:30px;
+  border: 2px solid black;
+  margin:30px;
+  background-color:yellow;
+}
+button{
+  margin: 20px;
+  color:black;
+  font-size: 30px;
+  border: 2px solid black;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+}
+.banana{
+  padding:30px;
+  border: 2px solid black;
+  margin:30px;
+  background-color:yellow;
+}
+.banana img{
+  background-color: white;
+  padding:10px;
+}
